@@ -2,7 +2,7 @@
 
 Source of the wonderful [**Chrome extension**][1]: opens a random URL every time a new tab is opened, for extra <del>security</del> <ins>obscurity</ins>.
 
-Inspired by [chrome-random-newtab][2]. Including [randomrandom][3]. Possibly not the only extension of its kind.
+Hat tip to [chrome-random-newtab][2]. Featuring [randomrandom][3]. Possibly not the only extension of its kind.
 
 Description to be extended.
 
