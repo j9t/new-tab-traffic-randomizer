@@ -1,6 +1,6 @@
 # New Tab Randomizer
 
-Source of the wonderful [**Chrome extension**][1]: opens a random URL every time a new tab is opened, for extra <del>security</del> <ins>obscurity</ins>.
+Source of the wonderful [**Chrome extension**][1] which calls a random URL every time a new tab is opened, for extra <del>security</del> <ins>obscurity</ins>.
 
 Hat tip to [chrome-random-newtab][2]. Featuring [randomrandom][3]. Possibly not the only extension of its kind.
 
