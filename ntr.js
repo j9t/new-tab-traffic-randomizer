@@ -13,11 +13,14 @@ function randomString(length) {
 
 // Open random URL
 var urls = [
+	'https://www.ccc.de/en/',
 	'https://coderesponsibly.org/',
 	'https://www.eff.org/',
+	'https://www.laquadrature.net/en',
 	'https://cdn.rawgit.com/yozlet/randomrandom/master/randomrandom.html',
+	'http://www.uroulette.com/visit/rotss',
 	'https://en.wikipedia.org/wiki/Special:Random',
-	'http://www.' + randomString(randomNumber(3, 15)) + '.com/'
+	'http://www.' + randomString(randomNumber(3, 10)) + '.com/'
 ];
 
 chrome.tabs.update({

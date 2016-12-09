@@ -8,7 +8,7 @@ Description to be extended.
 
 ----
 
-Source and extension are maintained (as of November 10, 2016). [Contributions welcome.][4]
+Source and extension are maintained (as of December 9, 2016). [Contributions welcome.][4]
 
 [1]: https://chrome.google.com/webstore/detail/new-tab-randomizer/onjkjeianfmpinhbdaibbbhejnffcika
 [2]: https://github.com/jimschubert/chrome-random-newtab
