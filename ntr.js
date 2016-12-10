@@ -18,7 +18,6 @@ var urls = [
 	'https://www.eff.org/',
 	'https://www.laquadrature.net/en',
 	'https://cdn.rawgit.com/yozlet/randomrandom/master/randomrandom.html',
-	'http://www.uroulette.com/visit/rotss',
 	'https://en.wikipedia.org/wiki/Special:Random',
 	'http://www.' + randomString(randomNumber(3, 10)) + '.com/'
 ];
