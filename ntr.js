@@ -16,6 +16,7 @@ var urls = [
 	'https://www.ccc.de/en/',
 	'https://coderesponsibly.org/',
 	'https://www.eff.org/',
+	'https://www.google.com/#q=' + randomString(randomNumber(1, 20)),
 	'https://www.laquadrature.net/en',
 	'https://cdn.rawgit.com/yozlet/randomrandom/master/randomrandom.html',
 	'https://en.wikipedia.org/wiki/Special:Random',
