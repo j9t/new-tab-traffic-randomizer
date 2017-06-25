@@ -1,4 +1,4 @@
-# New Tab Randomizer
+# New Tab Traffic Randomizer
 
 Source of the wonderful [**Chrome extension**][1] which requests a random URL every time a new tab is opened, for extra <del>security</del> <ins>obscurity</ins>.
 
@@ -10,10 +10,10 @@ Description to be extended.
 
 ----
 
-Source and extension are maintained (as of March 12, 2017). [Contributions welcome.][5]
+Source and extension are maintained (as of June 25, 2017). [Contributions welcome.][5]
 
-[1]: https://chrome.google.com/webstore/detail/new-tab-randomizer/onjkjeianfmpinhbdaibbbhejnffcika
-[2]: https://github.com/j9t/new-tab-randomizer/blob/master/ntr.js#L14
+[1]: @@
+[2]: @@
 [3]: https://github.com/jimschubert/chrome-random-newtab
 [4]: https://github.com/yozlet/randomrandom
-[5]: https://github.com/j9t/new-tab-randomizer/issues/new
+[5]: https://github.com/j9t/new-tab-traffic-randomizer/issues/new

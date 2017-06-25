@@ -3,7 +3,7 @@
 		"newtab": "ntr.html"
 	},
 	"description": "Requests a random URL every time a new tab is opened, for extra <del>security</del> <ins>obscurity</ins>.",
-	"homepage_url": "https://github.com/j9t/new-tab-randomizer",
+	"homepage_url": "https://github.com/j9t/new-tab-traffic-randomizer",
 	"icons": {
 		"16": "ntr.s.png",
 		"48": "ntr.m.png",
@@ -11,6 +11,6 @@
 	},
 	"incognito": "split",
 	"manifest_version": 2,
-	"name": "New Tab Randomizer",
-	"version": "1.0.5"
+	"name": "New Tab Traffic Randomizer",
+	"version": "1.1.0"
 }
