@@ -1,13 +1,13 @@
 {
 	"chrome_url_overrides": {
-		"newtab": "ntr.html"
+		"newtab": "nttr.html"
 	},
 	"description": "Requests a random URL every time a new tab is opened, for extra <del>security</del> <ins>obscurity</ins>.",
 	"homepage_url": "https://github.com/j9t/new-tab-traffic-randomizer",
 	"icons": {
-		"16": "ntr.s.png",
-		"48": "ntr.m.png",
-		"128": "ntr.l.png"
+		"16": "nttr.s.png",
+		"48": "nttr.m.png",
+		"128": "nttr.l.png"
 	},
 	"incognito": "split",
 	"manifest_version": 2,
