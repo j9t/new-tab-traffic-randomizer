@@ -12,8 +12,8 @@ Description to be extended.
 
 Source and extension are maintained (as of June 25, 2017). [Contributions welcome.][5]
 
-[1]: @@
-[2]: @@
+[1]: https://chrome.google.com/webstore/detail/new-tab-traffic-randomize/onjkjeianfmpinhbdaibbbhejnffcika
+[2]: https://github.com/j9t/new-tab-traffic-randomizer/blob/master/nttr.js#L14
 [3]: https://github.com/jimschubert/chrome-random-newtab
 [4]: https://github.com/yozlet/randomrandom
 [5]: https://github.com/j9t/new-tab-traffic-randomizer/issues/new
