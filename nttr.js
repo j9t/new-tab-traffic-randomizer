@@ -14,7 +14,7 @@ function randomString(length) {
 // Open random URL
 var urls = [
 	'https://www.ccc.de/en/',
-	'https://coderesponsibly.org/',
+	'https://mirrors.meiert.org/coderesponsibly.org/',
 	'https://www.eff.org/',
 	'https://www.google.com/#q=' + randomString(randomNumber(1, 20)),
 	'https://www.laquadrature.net/en',
