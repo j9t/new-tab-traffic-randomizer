@@ -13,13 +13,19 @@ function randomString(length) {
 
 // Open random URL
 var urls = [
-	'https://www.ccc.de/en/',
-	'https://mirrors.meiert.org/coderesponsibly.org/',
 	'https://www.eff.org/',
-	'https://www.google.com/#q=' + randomString(randomNumber(1, 20)),
+	'https://www.ccc.de/en/',
 	'https://www.laquadrature.net/en',
-	'https://cdn.rawgit.com/yozlet/randomrandom/master/randomrandom.html',
 	'https://en.wikipedia.org/wiki/Special:Random',
+	'https://www.wolframalpha.com/input/random.jsp',
+	'https://www.wikihow.com/Special:Randomizer',
+	'https://ask.metafilter.com/random',
+	'https://www.urbandictionary.com/random.php',
+	'https://answers.yahoo.com/answer',
+	'https://randomstreetview.com/',
+	'https://www.wikigifs.org/',
+	'https://mirrors.meiert.org/coderesponsibly.org/',
+	'https://www.google.com/#q=' + randomString(randomNumber(1, 20)),
 	'http://www.' + randomString(randomNumber(3, 10)) + '.com/'
 ];
 
