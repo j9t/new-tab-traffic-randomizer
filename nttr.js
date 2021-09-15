@@ -25,7 +25,7 @@ var urls = [
 	'https://randomstreetview.com/',
 	'https://www.wikigifs.org/',
 	'https://mirrors.meiert.org/coderesponsibly.org/',
-	'https://www.google.com/#q=' + randomString(randomNumber(1, 20)),
+	'https://www.google.com/search?q=' + randomString(randomNumber(1, 20)),
 	'http://www.' + randomString(randomNumber(3, 10)) + '.com/'
 ];
 
