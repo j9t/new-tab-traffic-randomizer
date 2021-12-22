@@ -23,8 +23,7 @@ var urls = [
 	'https://www.urbandictionary.com/random.php',
 	'https://answers.yahoo.com/answer',
 	'https://randomstreetview.com/',
-	'https://www.wikigifs.org/',
-	'https://mirrors.meiert.org/coderesponsibly.org/',
+	'https://frontenddogma.com/',
 	'https://www.google.com/search?q=' + randomString(randomNumber(1, 20)),
 	'http://www.' + randomString(randomNumber(3, 10)) + '.com/'
 ];
