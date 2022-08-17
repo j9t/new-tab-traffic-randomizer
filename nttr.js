@@ -21,7 +21,6 @@ var urls = [
 	'https://www.wikihow.com/Special:Randomizer',
 	'https://ask.metafilter.com/random',
 	'https://www.urbandictionary.com/random.php',
-	'https://answers.yahoo.com/answer',
 	'https://randomstreetview.com/',
 	'https://frontenddogma.com/',
 	'https://www.google.com/search?q=' + randomString(randomNumber(1, 20)),
