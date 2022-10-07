@@ -10,4 +10,4 @@ Description to be extended.
 
 ----
 
-Source and extension are maintained (as of September 11, 2021). [Contributions welcome.](https://github.com/j9t/new-tab-traffic-randomizer/issues/new)
+Source and extension are maintained (as of October 7, 2022). [Contributions welcome.](https://github.com/j9t/new-tab-traffic-randomizer/issues/new)
