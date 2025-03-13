@@ -1,3 +1,5 @@
+This repository was [moved to Codeberg](https://codeberg.org/j9t/new-tab-traffic-randomizer).
+
 # New Tab Traffic Randomizer
 
 Source of the wonderful [**Chrome extension**](https://chrome.google.com/webstore/detail/new-tab-traffic-randomize/onjkjeianfmpinhbdaibbbhejnffcika) which requests a random URL every time a new tab is opened, for extra <del>privacy</del> <ins>obscurity</ins>.
